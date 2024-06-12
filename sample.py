@@ -6,6 +6,7 @@ def main():
     b = 8
     c = sum(a, b)
     print(c)
+    print("Git Training")
     print("this is master")
 
 if __name__ == "__main__":
